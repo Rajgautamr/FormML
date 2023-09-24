@@ -73,6 +73,7 @@
 }
 
 .register .div-wrapper {
+  background-color: #000000;
   position: absolute;
   width: 422px;
   height: 50px;
